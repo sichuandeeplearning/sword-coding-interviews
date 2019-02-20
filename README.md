@@ -4,7 +4,7 @@
 
 ## 已经实现的有：
 
-- 面试题5
+- [面试题5](https://github.com/sichuandeeplearning/sword-coding-interviews/blob/master/codeinterview/code5.cpp)
 
 
 
